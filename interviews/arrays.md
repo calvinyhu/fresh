@@ -16,3 +16,7 @@
   - [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
 - [ ] Hash Table
   - [Two Sum](https://leetcode.com/problems/two-sum/)
+- [ ] Binary Search
+  - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+- [ ] Backtracking
+  - [Combination Sum](https://leetcode.com/problems/combination-sum/)
