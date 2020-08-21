@@ -19,4 +19,12 @@
 - [ ] Binary Search
   - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [ ] Backtracking
+  - [Jump Game](https://leetcode.com/problems/jump-game/solution/)
   - [Combination Sum](https://leetcode.com/problems/combination-sum/)
+  - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+- [ ] Top-Down DP (memoized backtrack)
+  - [Jump Game](https://leetcode.com/problems/jump-game/solution/)
+- [ ] Bottom-Up DP (remove recursion)
+  - [Jump Game](https://leetcode.com/problems/jump-game/solution/)
+- [ ] Greedy
+  - [Jump Game](https://leetcode.com/problems/jump-game/solution/)
