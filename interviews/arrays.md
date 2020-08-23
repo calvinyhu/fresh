@@ -7,6 +7,8 @@
   - [3Sum](https://leetcode.com/problems/3sum/)
   - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
   - [KSum](https://leetcode.com/problems/4sum/)
+  - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+    - Solved optimally first try
 - [ ] Two Pointers (or more)
   - [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
   - [3Sum](https://leetcode.com/problems/3sum/)
