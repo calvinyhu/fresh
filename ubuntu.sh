@@ -18,3 +18,6 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 # Install bash aliases
 cat bash_aliases > ~/.bash_aliases
 source ~/.bash_aliases
+
+# Install vimrc
+cat vimrc > ~/.vimrc
