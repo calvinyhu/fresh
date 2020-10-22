@@ -2,6 +2,9 @@
 
 ## Approach Checklist
 
+- [ ] One Pass
+  - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [ ] Sort
   - [Two Sum](https://leetcode.com/problems/two-sum/)
   - [3Sum](https://leetcode.com/problems/3sum/)
